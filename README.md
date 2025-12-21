@@ -47,11 +47,29 @@ It helps leadership make informed decisions about **resource allocation, marketi
 ---
 
 ## 📎 Documentation
-For detailed project documentation, see:  
-- **Word File:** `Retail_Insights_Hub_Documentation.docx`  
+For detailed project documentation, see:   
 - **PDF File:** `Retail_Insights_Hub_Documentation.pdf`  
 
 ---
+
+## 📂 Repository Structure
+
+Retail-Insights-Hub/
+│
+├── 📊 Online retail sales visuals.pbix        # Power BI dashboard file
+├── 📑 Online Retail.xlsx                      # Dataset (Excel)
+├── 📄 Retail_Insights_Hub_Documentation.pdf   # Detailed project documentation (PDF)
+├── 📝 README.md                               # Project overview and usage guide
+│
+├── 📸 Visuals/                                # Dashboard screenshots
+│   ├── Monthly revenue trends.png
+│   ├── Country-level revenue comparision.png
+│   ├── Top 10 customers by revenue.png
+│   └── Product demand by Country.png
+│
+└── 📂 Docs/                                   # Optional folder for Word or extra notes
+    └── Retail_Insights_Hub_Documentation.docx
+
 
 ## 🚀 How to Use
 1. Download the dataset and `.pbix` file from this repository.  
