@@ -53,27 +53,20 @@ For detailed project documentation, see:
 ---
 
 ## 📂 Repository Structure
+- 📊 Online retail sales visuals.pbix  → Power BI dashboard file 
+- 📑 Online Retail.xlsx → Dataset (Excel)
+- 📄 Retail_Insights_Hub_Documentation.pdf → Detailed project documentation (PDF)  
+- 📝 README.md → Project overview and usage guide
+- 📸 Visuals →                            
+- Monthly revenue trends.png
+- Country-level revenue comparision.png
+- Top 10 customers by revenue.png
+- Product demand by Country.png
 
-Retail-Insights-Hub/
-│
-├── 📊 Online retail sales visuals.pbix        # Power BI dashboard file
-├── 📑 Online Retail.xlsx                      # Dataset (Excel)
-├── 📄 Retail_Insights_Hub_Documentation.pdf   # Detailed project documentation (PDF)
-├── 📝 README.md                               # Project overview and usage guide
-│
-├── 📸 Visuals/                                # Dashboard screenshots
-│   ├── Monthly revenue trends.png
-│   ├── Country-level revenue comparision.png
-│   ├── Top 10 customers by revenue.png
-│   └── Product demand by Country.png
-│
-└── 📂 Docs/                                   # Optional folder for Word or extra notes
-    └── Retail_Insights_Hub_Documentation.docx
-
+---
 
 ## 🚀 How to Use
 1. Download the dataset and `.pbix` file from this repository.  
 2. Open the `.pbix` file in **Power BI Desktop**.  
 3. Explore the dashboard visuals and insights.  
 
----
