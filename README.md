@@ -57,11 +57,7 @@ For detailed project documentation, see:
 - 📑 Online Retail.xlsx → Dataset (Excel)
 - 📄 Retail_Insights_Hub_Documentation.pdf → Detailed project documentation (PDF)  
 - 📝 README.md → Project overview and usage guide
-- 📸 Visuals →                            
-              - Monthly revenue trends.png
-              - Country-level revenue comparision.png
-              - Top 10 customers by revenue.png
-              - Product demand by Country.png
+- 📸 Visuals → Monthly revenue trends.png, Country-level revenue comparision.png, Top 10 customers by revenue.png and Product demand by Country.png
 
 ---
 
