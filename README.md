@@ -3,7 +3,7 @@ Retail Insights Hub is a Power BI project analyzing 2011 online retail data. The
 
 ## 📌 Project Overview
 Retail Insights Hub is a Power BI project analyzing an online retail dataset from 2011.  
-The dashboard provides actionable insights into **sales performance, customer behavior, and product demand**, helping leadership identify seasonal trends, high-performing regions, and opportunities for growth.
+The dashboard provides actionable insights into **sales performance, customer behavior, and product demand**, helping CEO & CMO identify seasonal trends, high-performing regions, and opportunities for growth.
 
 ---
 
@@ -58,10 +58,10 @@ For detailed project documentation, see:
 - 📄 Retail_Insights_Hub_Documentation.pdf → Detailed project documentation (PDF)  
 - 📝 README.md → Project overview and usage guide
 - 📸 Visuals →                            
-- Monthly revenue trends.png
-- Country-level revenue comparision.png
-- Top 10 customers by revenue.png
-- Product demand by Country.png
+              - Monthly revenue trends.png
+              - Country-level revenue comparision.png
+              - Top 10 customers by revenue.png
+              - Product demand by Country.png
 
 ---
 
